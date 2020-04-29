@@ -2,8 +2,8 @@
 
 I have Learn and solve the famous NPL IMDb Reviews dataset. I have used Deep Learning models with PyTorch in Python and
 Fine-tune BERT for sentiment analysis. I have done text preprocessing (special tokens, padding, and attention masks) and build a Sentiment Classifier using the amazing Transformers library by Hugging Face!
-The model give the  accuracy of 94.68% on validation dataset!
-
+I have train my model on kaggle notebook on gpu. The model give the  accuracy of 94.68% on validation dataset. 
+![APP](img/Screenshot .png)
 
 ### References
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805),
