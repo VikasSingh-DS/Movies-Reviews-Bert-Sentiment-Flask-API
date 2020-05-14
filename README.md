@@ -16,3 +16,5 @@ I'll use BERT with the huggingface PyTorch library to quickly and efficiently fi
 
 ## Flask API App
 ![](img/Screenshot.png)
+
+#### I have train my model on kaggle notebook gpu. The model give the accuracy of 95.14% on validation dataset.
